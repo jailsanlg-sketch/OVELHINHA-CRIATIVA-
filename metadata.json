@@ -1,0 +1,7 @@
+{
+  "name": "APP OVELHINHA CRIATIVA",
+  "description": "Transforme fotos simples de produtos em artes sofisticadas para Instagram e Web usando Inteligência Artificial de ponta.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
